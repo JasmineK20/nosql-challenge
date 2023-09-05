@@ -13,6 +13,8 @@ Part 1: Database and Jupyter Notebook Set Up
 
 
 Part 2: Update the Database
+![image](https://github.com/JasmineK20/nosql-challenge/assets/135649789/2975612f-6636-4340-b887-317ec5ea7c75)
+
 
 
 
@@ -22,3 +24,5 @@ Part 2: Update the Database
 
 
 Part 3: Exploratory Analysis
+![image](https://github.com/JasmineK20/nosql-challenge/assets/135649789/8f2b090c-23c9-40f6-830b-e9872bda3d05)
+
