@@ -9,7 +9,14 @@ Part 1: Database and Jupyter Notebook Set Up
 
 
 
+
+
+
 Part 2: Update the Database
+
+
+
+
 
 
 
